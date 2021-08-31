@@ -1,1 +1,3 @@
-one
+THIS IS FILE 1.
+
+Changed content
